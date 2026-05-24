@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Hugues Assouan - Engineering Portfolio
+jekyll-theme-cayman
 ---
 
 # De Drouas Hugues Assouan
