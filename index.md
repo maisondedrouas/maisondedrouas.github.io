@@ -9,7 +9,7 @@ title: Hugues Assouan - Engineering Portfolio
 ---
 
 ## 🚀 About Me
-Results-driven Mechanical Engineer with over 3 years of experience in product design, R&D, and manufacturing optimization. Proven ability to lead cross-functional teams and deliver innovative hardware solutions in high-pressure, fast-paced environments. Expert in marine robotics, DFM principles, and structural weight optimization.
+Results-driven Mechanical Engineer with over 4 years of experience in product design, R&D, and manufacturing optimization. Proven ability to lead cross-functional teams and deliver innovative hardware solutions in high-pressure, fast-paced environments. Expert in marine robotics, DFM principles, and structural weight optimization.
 
 ---
 
