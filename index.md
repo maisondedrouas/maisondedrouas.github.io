@@ -1,6 +1,32 @@
 ---
 layout: default
 title: Hugues Assouan - Engineering Portfolio
+<style>
+  body {
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: #f4f6f6; /* Fallback color while image loads */
+  }
+  
+  /* This targets the main content block of the Cayman theme, 
+     giving it a clean whiteboard look over your CAD blueprint background */
+  .main-content {
+    background: rgba(255, 255, 255, 0.96); 
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+    max-width: 900px;
+    margin: 40px auto;
+  }
+  
+  /* Optional: Softens the header gradient so it blends nicely with technical drawings */
+  .page-header {
+    background-image: linear-gradient(120deg, rgba(21, 120, 120, 0.9), rgba(30, 70, 110, 0.9));
+  }
+</style>
 ---
 
 # De Drouas Hugues Assouan
