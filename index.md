@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Hugues Assouan - Engineering Portfolio
+---
 <style>
   body {
     background-image: url('background.jpg');
@@ -27,6 +28,7 @@ title: Hugues Assouan - Engineering Portfolio
     background-image: linear-gradient(120deg, rgba(21, 120, 120, 0.9), rgba(30, 70, 110, 0.9));
   }
 </style>
+
 ---
 
 # De Drouas Hugues Assouan
